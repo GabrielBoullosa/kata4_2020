@@ -1,4 +1,4 @@
-package kata4_2020;
+package Main;
 
 public class Main {
 
