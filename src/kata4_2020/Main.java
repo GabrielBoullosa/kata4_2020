@@ -1,6 +1,6 @@
 package kata4_2020;
 
-public class Kata4_2020 {
+public class Main {
 
     public static void main(String[] args) {
         
